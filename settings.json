@@ -6,16 +6,16 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "zombosmp.aternos.me",
+    "port": 16748,
+    "version": "1.21.1"
   },
 
   "position": {
     "enabled": false,
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "x": -929,
+    "y": 64,
+    "z": 1686
   },
 
   "utils": {
